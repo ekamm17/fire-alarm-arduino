@@ -11,4 +11,4 @@ This is a basic fire alarm system built using an temperature sensor, LEDs, and a
 
 ## Arduino Code
 
-![Sample Image](image.jpg)
+![Sample Image](images/code1)
