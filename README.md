@@ -1,5 +1,5 @@
 # Fire Alarm system
-This is a basic fire alarm system built using an temperature sensor, LEDs, and a buzzer, all connected to an Arduino Uno. The system triggers an alarm when a high temperature is detected. Red lights glow and buzzer goes off. This is a beginner level project and my first attempt at embedded systems.
+This is a basic fire alarm system built using an LM35 temperature sensor, LEDs, and a buzzer, all connected to an Arduino Uno. The system triggers an alarm when a high temperature is detected. Red lights glow and buzzer goes off. This is a beginner level project and my first attempt at embedded systems.
 
 ## Components used
 1. Arduino Uno (datasheet: https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf)
